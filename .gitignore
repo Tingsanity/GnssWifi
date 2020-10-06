@@ -1,0 +1,7 @@
+*.weights
+*.zip
+*.model
+*.pth
+*.pb
+*.meta
+*.jpg
