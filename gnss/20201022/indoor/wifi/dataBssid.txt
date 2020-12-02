@@ -1,0 +1,68 @@
+1	BSSID:	84:c9:b2:64:a7:2e	SSID:	dlink
+2	BSSID:	40:9b:cd:17:0f:83	SSID:	.1.Free Wi-Fi
+3	BSSID:	40:9b:cd:17:0f:90	SSID:	CHT Wi-Fi Auto
+4	BSSID:	40:9b:cd:17:0f:93	SSID:	.1.Free Wi-Fi
+5	BSSID:	40:9b:cd:17:0f:91	SSID:	CHT Wi-Fi(HiNet)
+6	BSSID:	f4:2e:7f:d3:aa:c4	SSID:	NCTU-Seminar
+7	BSSID:	f4:2e:7f:d3:aa:c5	SSID:	eduroam
+8	BSSID:	04:d9:f5:92:bc:b0	SSID:	AICV-R229
+9	BSSID:	f4:2e:7f:d3:aa:c3	SSID:	NCTU-Alumni
+10	BSSID:	f4:2e:7f:d3:aa:c0	SSID:	NCTU
+11	BSSID:	f4:2e:7f:d3:aa:c2	SSID:	NCTU-Guest
+12	BSSID:	c4:a8:1d:e6:cf:41	SSID:	LAB518(150Mb)
+13	BSSID:	f4:2e:7f:d3:aa:d0	SSID:	NCTU
+14	BSSID:	f4:2e:7f:d3:aa:d4	SSID:	NCTU-Seminar
+15	BSSID:	f4:2e:7f:d3:aa:d3	SSID:	NCTU-Alumni
+16	BSSID:	a2:20:a6:24:b9:1f	SSID:	TF-WIFI_24B91F
+17	BSSID:	04:d9:f5:92:b6:7c	SSID:	AILab_R338_5G
+18	BSSID:	74:da:88:7d:7f:ba	SSID:	AIoT_229_5G
+19	BSSID:	40:9b:cd:17:0f:81	SSID:	CHT Wi-Fi(HiNet)
+20	BSSID:	40:9b:cd:17:0f:80	SSID:	CHT Wi-Fi Auto
+21	BSSID:	74:da:38:c7:d3:e5	SSID:	PM2.5_Setup_E4
+22	BSSID:	f4:2e:7f:d3:c8:82	SSID:	NCTU-Guest
+23	BSSID:	f4:2e:7f:d3:c8:83	SSID:	NCTU-Alumni
+24	BSSID:	f4:2e:7f:d3:c8:85	SSID:	eduroam
+25	BSSID:	f4:2e:7f:d3:c8:80	SSID:	NCTU
+26	BSSID:	f4:2e:7f:d3:c8:84	SSID:	NCTU-Seminar
+27	BSSID:	10:62:eb:c4:48:21	SSID:	CHT Wi-Fi(HiNet)
+28	BSSID:	f4:2e:7f:d3:aa:d2	SSID:	NCTU-Guest
+29	BSSID:	10:62:eb:c4:48:20	SSID:	CHT Wi-Fi Auto
+30	BSSID:	f4:2e:7f:d3:aa:d5	SSID:	eduroam
+31	BSSID:	10:62:eb:c4:48:23	SSID:	.1.Free Wi-Fi
+32	BSSID:	74:d0:2b:8e:6c:30	SSID:	R230AP-1
+33	BSSID:	a8:5e:45:9a:73:81	SSID:	WYTN_RD
+34	BSSID:	30:b5:c2:c9:66:6d	SSID:	APL
+35	BSSID:	d0:17:c2:63:a7:85	SSID:	wifi_butterflylove
+36	BSSID:	a8:5e:45:9a:73:fc	SSID:	WYTN_RD_5G
+37	BSSID:	04:d4:c4:5e:18:c8	SSID:	noel
+38	BSSID:	04:d9:f5:c3:3f:38	SSID:	AILab_R334
+39	BSSID:	40:9b:cd:17:6a:e3	SSID:	.1.Free Wi-Fi
+40	BSSID:	90:94:e4:c5:cf:8e	SSID:	AI-EDA-LAB
+41	BSSID:	04:d9:f5:92:b6:78	SSID:	AILab_R338
+42	BSSID:	40:9b:cd:17:6a:e1	SSID:	CHT Wi-Fi(HiNet)
+43	BSSID:	0e:bf:a0:97:fe:90	SSID:	Galaxy A31FE90
+44	BSSID:	74:da:88:7d:7f:bb	SSID:	AIoT_229
+45	BSSID:	40:9b:cd:17:6a:e0	SSID:	CHT Wi-Fi Auto
+46	BSSID:	bc:f6:85:a9:8b:af	SSID:	ZPYO
+47	BSSID:	f4:2e:7f:d5:c7:e3	SSID:	NCTU-Alumni
+48	BSSID:	f4:2e:7f:d5:c7:e0	SSID:	NCTU
+49	BSSID:	a8:5e:45:9a:73:f8	SSID:	WYTN_RD
+50	BSSID:	d0:17:c2:63:a7:84	SSID:	butterflylove
+51	BSSID:	74:da:38:c7:d4:5b	SSID:	PM2.5_Setup_5A
+52	BSSID:	10:62:eb:c4:48:31	SSID:	CHT Wi-Fi(HiNet)
+53	BSSID:	10:62:eb:c4:48:33	SSID:	.1.Free Wi-Fi
+54	BSSID:	10:62:eb:c4:48:30	SSID:	CHT Wi-Fi Auto
+55	BSSID:	0c:9d:92:48:3c:e8	SSID:	ISL320
+56	BSSID:	04:d9:f5:92:c0:f8	SSID:	LAB327
+57	BSSID:	f4:2e:7f:d5:c7:e5	SSID:	eduroam
+58	BSSID:	04:d9:f5:c3:3f:3c	SSID:	AILab_R334_5G
+59	BSSID:	f4:8c:eb:06:7c:f8	SSID:	LAB335
+60	BSSID:	56:d4:f7:b3:2d:fe	SSID:	
+61	BSSID:	1c:5f:2b:25:10:01	SSID:	CHT Wi-Fi(HiNet)
+62	BSSID:	1c:5f:2b:25:10:03	SSID:	.1.Free Wi-Fi
+63	BSSID:	c4:12:f5:7b:ed:b4	SSID:	Lab516-2
+64	BSSID:	c6:bd:a5:d0:16:d3	SSID:	Hunter
+65	BSSID:	50:d4:f7:b3:2d:fe	SSID:	LAB228
+66	BSSID:	1a:b7:12:d4:11:1a	SSID:	Hunter
+67	BSSID:	f4:2e:7f:d5:c7:e4	SSID:	NCTU-Seminar
+68	BSSID:	f4:2e:7f:d5:c7:e2	SSID:	NCTU-Guest
